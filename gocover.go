@@ -16,7 +16,7 @@ import (
 	"log"
 	"path/filepath"
 
-	"golang.org/x/tools/cover"
+	"github.com/scalingdata/go-x-tools/cover"
 )
 
 func findFile(file string) (string, error) {

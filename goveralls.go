@@ -22,9 +22,9 @@ import (
 	"strings"
 	"time"
 
-	"golang.org/x/tools/cover"
+	"github.com/scalingdata/go-x-tools/cover"
 
-	"github.com/pborman/uuid"
+	"github.com/scalingdata/go-uuid"
 )
 
 /*

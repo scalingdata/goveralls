@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"golang.org/x/tools/cover"
+	"github.com/scalingdata/go-x-tools/cover"
 )
 
 func TestMergeProfs(t *testing.T) {
